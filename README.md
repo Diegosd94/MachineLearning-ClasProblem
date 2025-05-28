@@ -27,7 +27,7 @@ This R-based project aims to predict the success of Initial Coin Offerings (ICOs
   - `pmm` for continuous with natural distributions
 
 ### 4. Predictive Modeling
-The project evaluates and compares multiple classification algorithms:
+Multiple machine learning models were trained and compared, all using **10-fold cross-validation** for fair evaluation:
 
 - **K-Nearest Neighbors (KNN)**  
   Grid search over K values using 10-fold cross-validation
