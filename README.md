@@ -1,6 +1,6 @@
 # 🔍 ICO Success Prediction Project (R)
 
-This R-based project aims to predict the success of Initial Coin Offerings (ICOs) by applying comprehensive data cleaning, imputation, and machine learning classification models. The dataset was provided as part of the **LUBS5990M** coursework.
+This R-based project aims to predict the success of Initial Coin Offerings (ICOs) by applying comprehensive data cleaning, imputation, and machine learning classification models. The dataset was provided as part of the a Uni coursework.
 
 ## 🧠 Technologies & Libraries Used
 
